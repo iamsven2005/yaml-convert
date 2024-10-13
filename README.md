@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 5 min project once agaain
+My speedruns comes from 3 yrs back when I learnt bootstrap, I build vscode macros for every style, then deployed it to github pages and call it done, my first property rental site took me about 10 mins, but hey it was my first speed run, and to be fair vs code is slow. I spent too long on that damn carousel.
 
-## Getting Started
+### Goofy ass 5 min hacks be like
+I am severly addicted to coding, they call me no life for a reason. Anyways time to stop procrastinating on my startup stuff after this.
 
-First, run the development server:
+### Story goes:
+I realize that instead of click on that small ass copy code button on chatgpt, why not have a big blue button that says download this file
+- 1 min to setup repo
+- 1 min to load up environment from neovim and pnpm install
+- 2 min to do the ai part
+- 1 min to deploy
+- 1 min to write this read me file, because I might forgot what this is for
+- 2 min to post on instagram
+- 1 min to rethink my life choices
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## So I lied
+I actually took 10 min, you've been deceived, hahahah
